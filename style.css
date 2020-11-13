@@ -1,0 +1,24 @@
+
+
+h1{
+    color:#FFD700;
+      text-align:center;
+    font-size:52px;
+}
+img{
+  width:60%;
+  height:75%;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  border:8px solid black;
+}
+p{
+  color:#FFD700;
+  font-size:28px;
+  font-weight: border;
+  }
+body{
+  background-image: url("https://i.pinimg.com/originals/2a/86/a0/2a86a01f6514d1c019c170067de6028f.jpg");
+  background-size: contain;
+}
